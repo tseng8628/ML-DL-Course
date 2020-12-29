@@ -1,2 +1,2 @@
-# ML&DL-Course
-機器學習應用課程程式碼
+# ML-DL-Exercise
+機器學習與深度學習應用的簡單練習
